@@ -54,6 +54,7 @@ const Login = () => {
     setStoreAccessTime(true);
   };
 
+  // TEEHEE bcrypt from the start
   useEffect(() => {
     if (storeAccessTime) {
       setStoreAccessTime(false);
