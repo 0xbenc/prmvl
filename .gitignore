@@ -1,0 +1,23 @@
+# Logs
+logs
+
+# Dependency directories
+node_modules/
+
+# dotenv environment variables file
+.env
+
+# Webpack
+.webpack/
+
+# Electron-Forge
+out/
+
+# NPM dependencies
+package-lock.json
+
+# Mac system files
+.DS_Store
+
+# VSCode
+.vscode
